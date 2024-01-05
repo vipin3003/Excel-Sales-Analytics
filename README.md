@@ -1,4 +1,4 @@
-# Sales-And-Financial-Analysis-For-AtliQ-Hardwares
+# Sales Report
 This is my latest codebasics Advanced Excel project named “Sales & Finance Analytics” for AtliQ Hardware. I got chance to dive into the world of “Sales & Finance Analytics” for AtliQ Hardware. 
 # Introduction:
 AtliQ Hardware is a company that sales hardware and peripherals to its respective customers like Croma, Best Buy, Staples, Flipkart. In this project I prepared different “Sales And Finance Analytics” reports for AtliQ Hardware. These reports help them to insights its sales and finance data. These reports empowering AtliQ Hardware to make finance decisions and effectively monitor key performance indicators (KPIs).
